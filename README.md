@@ -4,7 +4,7 @@
 
 An iOS app built to help you introduce yourself to your peers with details of your name, school, year, and whether you'd like to have more pets than you already have!
 
-### App Walk-though
+### App Walk-through
 
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
