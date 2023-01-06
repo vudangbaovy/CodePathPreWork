@@ -8,8 +8,6 @@ An iOS app built to help you introduce yourself to your peers with details of yo
 
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
